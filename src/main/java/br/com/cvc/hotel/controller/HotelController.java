@@ -1,4 +1,4 @@
-package br.com.cvc.hotel.service;
+package br.com.cvc.hotel.controller;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.cvc.hotel.entity.HotelFind;
 import br.com.cvc.hotel.entity.HotelReturn;
+import br.com.cvc.hotel.service.HotelService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;

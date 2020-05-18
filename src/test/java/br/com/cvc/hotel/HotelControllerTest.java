@@ -11,8 +11,8 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
+import br.com.cvc.hotel.controller.HotelController;
 import br.com.cvc.hotel.entity.HotelFind;
-import br.com.cvc.hotel.service.HotelController;
 
 @SpringBootTest
 public class HotelControllerTest extends ApplicationTests{
