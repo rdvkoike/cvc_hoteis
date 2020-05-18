@@ -33,3 +33,5 @@ Acesse http://localhost:8080/swagger-ui.html para documentação de uso da API.
 - melhorar documentação
 
 - melhorar cobertura dos testes
+
+- melhorar Error Handling
