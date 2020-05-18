@@ -28,6 +28,8 @@ Acesse http://localhost:8080/swagger-ui.html para documentação de uso da API.
 
 - implementar build prod/dev
 
+- melhorar performance do codigo
+
 - melhorar validações
 
 - melhorar documentação
