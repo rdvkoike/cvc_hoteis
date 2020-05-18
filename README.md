@@ -1,5 +1,3 @@
-# cvc_hoteis
-
 # CVC - Hotel REST API
 
 Sistema de Busca de Hoteis e valores de estadia
